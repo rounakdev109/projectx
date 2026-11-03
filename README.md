@@ -2,6 +2,10 @@
 
 A design and web studio portfolio for small businesses. Built with React, Vite, TypeScript, Tailwind CSS v4, and Framer Motion.
 
+## Live Website
+
+View the live site here: http://nirmaanportfolio.netlify.app/
+
 ## Stack
 
 - **React 19** + **TypeScript**
